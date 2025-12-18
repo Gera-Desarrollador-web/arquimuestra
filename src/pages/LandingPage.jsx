@@ -6,7 +6,6 @@ import AboutMap from "../components/AboutMap";
 import Footer from "../components/Footer";
 import WhatsAppButton from "../components/WhatsAppButton";
 import TestimonialSection from "../components/TestimonialSection";
-import Services from "../components/Services";
 import BeforeAfter from "../components/BeforeAfter";
 import MaterialsQuality from "../components/MaterialsQuality";
 
